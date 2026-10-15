@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andrejristic/ENDO/releases/latest">⬇️ Download</a> ·
+  <a href="https://github.com/zeravatechnologies/andrej-ENDO/releases/latest">⬇️ Download</a> ·
   <a href="docs/GUIDE.en.md">Guide (EN)</a> ·
   <a href="docs/GUIDE.sr.md">Vodič (SR)</a> ·
   <a href="STATUS.md">Status</a>
@@ -42,7 +42,7 @@ and do.
 
 ## Download
 
-Grab the latest build for your OS from **[Releases](https://github.com/andrejristic/ENDO/releases/latest)**:
+Grab the latest build for your OS from **[Releases](https://github.com/zeravatechnologies/andrej-ENDO/releases/latest)**:
 `.deb` and `.AppImage` (Linux), `.exe` (Windows). Free.
 
 ## Build from source
